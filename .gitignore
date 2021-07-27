@@ -1,0 +1,21 @@
+#environment
+/src/environments/environment.ts
+.env
+
+#editors
+.idea
+/.idea
+*.orig
+
+#dependencies
+node_modules
+
+#compiled output
+dist
+
+#misc
+.log
+
+#coverage tests files
+/coverage/*
+.DS_Store
